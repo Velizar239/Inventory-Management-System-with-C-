@@ -1,0 +1,14 @@
+1 SteelRod RawMaterial 500.00 kg
+2 PlasticSheet RawMaterial 200.00 m2
+3 CopperWire RawMaterial 300.00 m
+4 AluminumSheet RawMaterial 100.00 m2
+5 SteelPlate RawMaterial 250.00 kg
+6 GearWheel FinishedProduct 50.00 pcs
+7 ScrewPack FinishedProduct 1000.00 pcs
+8 PlasticBox FinishedProduct 150.00 pcs
+9 BearingSet FinishedProduct 75.00 pcs
+10 PlasticBottle FinishedProduct 300.00 pcs
+11 Hammer Tool 21.00 pcs
+12 WeldingGun Tool 5.00 pcs
+13 Screwdriver Tool 15.00 pcs
+14 Wrench Tool 10.00 pcs
