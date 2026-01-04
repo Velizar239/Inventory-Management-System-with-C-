@@ -1,0 +1,10 @@
+1 Steel 120.50
+2 Bolts 45.00
+3 CopperWire 200.00
+4 AluminumSheet 75.00
+5 RubberGasket 300.00
+6 Motor 12.00
+7 Gear 50.00
+8 Bearing 150.00
+9 PaintCan 60.00
+10 Screwdriver 25.00
